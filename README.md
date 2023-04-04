@@ -1,15 +1,3 @@
 # Hello-World
 
-第一次修改
-
-second
-
-third
-
-i have an apple
-
-uh
-
-have two apple
-
-ceshi1231231
+用ssh连接的方式 对jenkins和github使用webhook，进行自动化部署
